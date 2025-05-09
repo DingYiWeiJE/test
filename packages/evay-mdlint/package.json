@@ -1,0 +1,25 @@
+{
+  "name": "evay-mdlint",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "YiweiDing-aboci <yiweiding@sending.tech>",
+  "homepage": "https://github.com/DingYiWeiJE/test#readme",
+  "license": "ISC",
+  "main": "lib/index.json",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DingYiWeiJE/test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/evay-mdlint.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/DingYiWeiJE/test/issues"
+  }
+}
